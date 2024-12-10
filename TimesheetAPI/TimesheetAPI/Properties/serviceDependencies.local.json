@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ServiceLinker/locations/australiaeast/connectors/ConnectionStringsDefaultConnection_5554E61193",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/gemtimes/databases/futureac_cactis",
+      "type": "mssql.azure",
+      "connectionId": "ConnectionStrings:DefaultConnection",
+      "dynamicId": null
+    }
+  }
+}
